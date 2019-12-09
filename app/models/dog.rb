@@ -1,8 +1,8 @@
-class Dog 
+class Dog
 
-attr_accessor :name, :breed, :age 
+attr_accessor :name, :breed, :age
 
-@@all = [] 
+@@all = []
 
 def self.all
   @@all
